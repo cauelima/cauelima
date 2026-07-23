@@ -1,6 +1,5 @@
-- 👋 Hi, I’m a lawyer in career transition
-- 👀 I’m interested in frontend
-- 🌱 I’m currently learning HTML, CSS and JS
+
+- 👀 Hi. I’m interested in Data Science
 - 📫 How to reach me: <a href="https://instagram.com/cauehlima" target="_blank">Instagram</a><link> and <a href="https://www.linkedin.com/in/cauê-alexandrino/" target="_blank">Linkedin</a>
 
 <!---
