@@ -2,7 +2,7 @@
 
 # Cauê Lima
 
-**Direito e dados.** Quase 10 anos em litígios bancários e de consumo — hoje construo pipelines e análises para responder perguntas jurídicas com evidência, não com achismo. Foco em **jurimetria** e **legal ops**.
+Analista de dados
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauê-alexandrino/)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauechlima@gmail.com)
@@ -12,15 +12,9 @@
 
 ---
 
-### Sobre
 
-Passei quase uma década lendo processos, planilhas de carteira e decisões judiciais — e percebi que boa parte das perguntas que o time jurídico faz ("quanto tempo essa vara leva?", "qual tese está ganhando?", "onde estamos perdendo dinheiro?") são perguntas de dados disfarçadas de perguntas jurídicas.
+- Trabalhando com: Python, pandas, coleta via API, MongoDB e PySpark
 
-Hoje respondo essas perguntas com código. Em formação técnica pelo **NExT 26.1 (CESAR School)** — Fundamentos de Python Aplicado a Dados.
-
-- Trabalhando com: Python, pandas, coleta via API, MongoDB
-- Construindo: **JuriFlow** — pipeline de análise de portfólios jurídicos
-- Onde meu diferencial mora: entendo o dado jurídico por dentro, não só a tabela
 
 ---
 
